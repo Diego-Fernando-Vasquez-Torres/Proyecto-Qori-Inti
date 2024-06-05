@@ -1,5 +1,5 @@
 ---
-title: 'Qori Inti'
+title: 'Inmobiliaria Qori Inti'
 date: 2023-10-24
 type: landing
 
@@ -10,19 +10,19 @@ design:
 sections:
   - block: hero
     content:
-      title: Build Your Landing Pages with Hugo Blox
-      text: 🧱 EASY. FREE (OPEN SOURCE). NO-CODE  🧱
+      title: La mejor manera de vivir tu sueño
+      text: Somos una inmobiliaria en la ciudad de Juliaca y ofrecemos lotes a precios asequibles para toda la población.
       primary_action:
-        text: Get Started
+        text: Contactate con un asesor
         url: https://hugoblox.com/templates/
         icon: rocket-launch
       secondary_action:
-        text: Read the docs
+        text: Lee nuestras reseñas
         url: https://docs.hugoblox.com
       announcement:
-        text: "Announcing the release of version 1."
+        text: "Da el primer paso, nosotros te ayudamos a encontrar tu lote"
         link:
-          text: "Read more"
+          text: "Ver más"
           url: "/blog/"
     design:
       spacing:
@@ -34,24 +34,25 @@ sections:
         color: "navy"
         image:
           # Add your image background to `assets/media/`.
-          filename: bg-triangles.svg
+          filename: banner.jpg
           filters:
             brightness: 0.5
   - block: stats
     content:
       items:
-        - statistic: "1M+"
+        - statistic: "100+"
           description: |
-            Websites built  
-            with Hugo Blox
-        - statistic: "10k+"
+            Lotes vendidos    
+            En toda la regióm
+        - statistic: "100+"
           description: |
-            GitHub stars  
-            since 2016
-        - statistic: "3k+"
+            stats  
+            stats
+        - statistic: "100+"
           description: |
-            Discord community  
-            for support
+            stats   
+            stats   
+            stats
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
@@ -61,42 +62,47 @@ sections:
   - block: features
     id: features
     content:
-      title: Features
-      text: Build your site with blocks 🧱
+      title: "Qori Inti: Grupo Inmobiliario & Constructor"
+      text: Conoce mas sobre nosotros, nuestro compromiso con el cliente.
       items:
-        - name: Optimized SEO
+        - name: Nuestro servicio
           icon: magnifying-glass
-          description: Automatic sitemaps, RSS feeds, and rich metadata take the pain out of SEO and syndication.
-        - name: Fast
+          description: Qori Inti aspira a expandir 
+                      su alcance más allá de la venta de lotes. Nuestro objetivo es desarrollar 
+                      proyectos inmobiliarios completos, desde la adquisición de terrenos 
+                      hasta la construcción de urbanizaciones, reflejando nuestra misión y 
+                      visión de innovación y excelencia.
+                      
+        - name: Misión
           icon: bolt
-          description: Super fast page load with Tailwind CSS and super fast site building with Hugo.
-        - name: Easy
+          description: "'' En Qori Inti, nos dedicamos a transformar el mercado inmobiliario del sur 
+                      del Perú. Nos esforzamos por la transparencia, la innovación y un 
+                      compromiso incansable con mejorar la calidad de vida de nuestros clientes. 
+                      Nuestra misión es ofrecer un servicio de calidad excepcional, asegurando 
+                      que cada interacción con nuestros clientes aporte valor y satisfacción.''"
+        - name: Visión
           icon: sparkles
-          description: One-click deployment to GitHub Pages. Have your new website live within 5 minutes!
-        - name: No-Code
-          icon: code-bracket
-          description: Edit and design your site just using rich text (Markdown) and configurable YAML parameters.
-        - name: Highly Rated
-          icon: star
-          description: Rated 5-stars by the community.
-        - name: Swappable Blocks
-          icon: rectangle-group
-          description: Build your pages with blocks - no coding required!
+          description: "''Aspiramos a convertirnos en líderes del mercado inmobiliario del altiplano 
+                        peruano, diferenciándonos por nuestra capacidad innovadora, la calidad 
+                        superior de nuestros proyectos y un servicio al cliente insuperable. Nos 
+                        enfocamos en ser guías confiables para nuestros clientes, ayudándoles a 
+                        encontrar su espacio ideal y contribuyendo significativamente a su 
+                        bienestar y satisfacción.''"
   - block: cta-image-paragraph
     id: solutions
     content:
       items:
-        - title: Build your future-proof website
-          text: As easy as 1, 2, 3!
+        - title: Empieza a ver nuestros lotes disponibles
+          text: Es hora de dar el primer paso, no te arrepentirás!
           feature_icon: check
           features:
-            - "Future-proof - edit your content in text files"
-            - "Website is generated by a single app, Hugo"
-            - "No JavaScript knowledge required"
+            - "Lotes desde 35,000 nuevos soles"
+            - "Ubicados en áreas estratégicas"
+            - "Dimensiones acordes para ti y tu familia"
           # Upload image to `assets/media/` and reference the filename here
           image: build-website.png
           button:
-            text: Get Started
+            text: Conocer Lotes
             url: https://hugoblox.com/templates/
         - title: Large Community
           text: Join our large community on Discord - ask questions and get live responses
@@ -118,11 +124,11 @@ sections:
       title: ""
       text: ""
       items:
-        - name: "Hugo Smith"
-          role: "Marketing Executive at X"
+        - name: "Ana Vargas"
+          role: "Madre de familia..."
           # Upload image to `assets/media/` and reference the filename here
           image: "testimonial-1.jpg"
-          text: "Awesome, so easy to use and saved me so much work with the swappable pre-designed sections!"
+          text: "Una experiencia grata, excelente atención durante el proceso de compra, no dudo que fue un paso hacia adelante para mi familia y yo"
     design:
       spacing:
         # Reduce bottom spacing so the testimonial appears vertically centered between sections

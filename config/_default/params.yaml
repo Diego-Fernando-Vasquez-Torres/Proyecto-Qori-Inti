@@ -6,7 +6,7 @@
 # Appearance
 appearance:
   mode: light
-  color: indigo
+  color: Indigo 
 
 # SEO
 marketing:
@@ -14,7 +14,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo landing page theme powered by Hugo Blox website builder.'
+    description: 'Grupo Inmobiliario - venta de lotes'
     twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''
@@ -36,7 +36,7 @@ header:
     logo:
       text: ""
       # Logo filename in `assets/media/` folder
-      filename: "logo.svg"
+      filename: "logo.png"
     button:
       enable: true
       text: "Get Started"
@@ -47,7 +47,11 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} My Company'
+    notice: '© {year} Grupo Inmobiliario & Constructor Qori Inti'
+  contact_info:
+    address: 'Dirección: Calle Principal #123, Ciudad, País'
+    phone: 'Teléfono: +123 456 7890'
+    email: 'Correo electrónico: info@qoriinti.com'
 
 # Localization
 locale:
