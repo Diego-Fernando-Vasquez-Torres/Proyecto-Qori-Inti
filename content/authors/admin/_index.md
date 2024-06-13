@@ -1,6 +1,6 @@
 ---
 # Display name
-title: DIEGO VASQUEZ
+title: Gerente - Qori Inti
 
 # Name pronunciation (optional)
 name_pronunciation: Chien Shiung Wu

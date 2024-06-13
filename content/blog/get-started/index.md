@@ -1,84 +1,53 @@
 ---
-title: 🎉 Easily create your own simple yet highly customizable blog
-summary: Take full control of your personal brand and privacy by migrating away from the big tech platforms!
-date: 2023-10-27
+title: "🌄 Descubre tu paraíso personal: Lotes exclusivos disponibles"
+summary: ¡Explora nuestras ofertas especiales y asegura tu lugar en el paraíso!
+date: 2024-06-12
 
-# Featured image
-# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
+# Imagen destacada
+# Liberado bajo la licencia [MIT](https://github.com/HugoBlox/hugo-blox-builder/blob/main/LICENSE.md).
+# Coloca una imagen llamada `featured.jpg/png` en la carpeta de esta página y personaliza sus opciones aquí.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+  caption: 'Crédito de la imagen: [**Unsplash**](https://unsplash.com)'
 
 authors:
   - admin
-  - Ted
 
 tags:
-  - Academic
-  - Hugo Blox
-  - Markdown
+  - Lotes
+  - Inmobiliaria
+  - Ofertas
+
 ---
 
-Welcome 👋
+¡Bienvenido al lugar donde tus sueños toman forma! En nuestra exclusiva colección de lotes, te invitamos a descubrir tu propio paraíso personal.
 
-## Overview
+## Visión General
 
-1. The Hugo Blox website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
-2. The template can be modified and customised to suit your needs. It's a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a **no-code solution (write in Markdown and customize with YAML parameters)** and having **flexibility to later add even deeper personalization with HTML and CSS**
-3. You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more
+1. **Escenarios de Ensueño**: Desde vistas panorámicas de montañas hasta serenos paisajes junto al mar, nuestros lotes ofrecen entornos incomparables para construir tu hogar de ensueño.
+2. **Exclusividad Garantizada**: Cada lote es una oportunidad única, seleccionada cuidadosamente para ofrecerte lo mejor en términos de ubicación, privacidad y potencial de inversión.
+3. **Inversiones con Sentido**: Más que una simple compra, invertir en uno de nuestros lotes es asegurar un futuro lleno de posibilidades y experiencias inolvidables.
 
-[//]: # ([![The template is mobile first with a responsive design to ensure that your site looks stunning on every device.]&#40;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/starters/academic/preview.png&#41;]&#40;https://hugoblox.com&#41;)
+### ¿Qué ofrecemos?
 
-### Get Started
+- 🌳 **Lotes con Historia**: Sumérgete en la riqueza cultural y natural de cada ubicación, con terrenos que cuentan historias de generaciones pasadas y prometen un futuro próspero.
+- 🏡 **Diseño Personalizado**: Trabajamos contigo para convertir tu visión en realidad, ofreciéndote la flexibilidad para diseñar y construir la casa de tus sueños.
+- 🛡️ **Asesoramiento Profesional**: Desde el primer contacto hasta la entrega de llaves, nuestro equipo de expertos está aquí para guiarte en cada paso del camino, brindándote asesoramiento personalizado y apoyo constante.
 
-- 👉 [**Create a new site**](https://hugoblox.com/templates/)
-- 📚 [**Personalize your site**](https://docs.hugoblox.com/)
-- 💬 [Chat with the **Hugo Blox community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- 🐦 Twitter: [@GetResearchDev](https://twitter.com/GetResearchDev) [@GeorgeCushen](https://twitter.com/GeorgeCushen) #MadeWithHugoBlox
-- 💡 [Request a **feature** or report a **bug** for _Hugo Blox_](https://github.com/HugoBlox/hugo-blox-builder/issues)
-- ⬆️ **Updating Hugo Blox?** View the [Update Guide](https://docs.hugoblox.com/reference/update/) and [Release Notes](https://github.com/HugoBlox/hugo-blox-builder/releases)
+## ¿Por qué elegirnos?
 
-## Crowd-funded open-source software
+- **Experiencia Excepcional**: Con décadas de experiencia en el mercado inmobiliario, hemos ayudado a innumerables personas a encontrar su lugar perfecto en el mundo.
+- **Compromiso con la Excelencia**: Nos esforzamos por superar tus expectativas en cada interacción, ofreciendo un servicio excepcional y soluciones a medida que reflejan tu estilo de vida y aspiraciones.
+- **Innovación Constante**: Siempre buscamos nuevas formas de mejorar y enriquecer tu experiencia, desde la implementación de tecnologías de vanguardia hasta la adopción de prácticas sostenibles que preserven la belleza natural de nuestros entornos.
 
-To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.
+## Próximos Pasos
 
-### [❤️ Click here to become a sponsor and help support Hugo Blox's future ❤️](https://hugoblox.com/sponsor/)
+¡Tu paraíso personal te espera! ¿Estás listo para dar el primer paso hacia tu nueva vida? 
 
-As a token of appreciation for sponsoring, you can **unlock [these](https://hugoblox.com/sponsor/) awesome rewards and extra features 🦄✨**
+- 👉 [**Explora nuestros lotes disponibles**](https://ejemplo.com/lotes)
+- 💬 ¿Tienes preguntas o deseas más información? [**Contáctanos**](https://wa.link/p9fp8b) y un miembro de nuestro equipo estará encantado de ayudarte.
 
-## Ecosystem
+## Licencia
 
-- **[Bibtex To Markdown](https://github.com/GetRD/academic-file-converter):** Automatically import publications from BibTeX
+Derechos de autor 2024-presente Grupo Inmobiliario Qori Inti. 
 
-## Inspiration
 
-[Learn what other **creators**](https://hugoblox.com/creators/) are building with this template.
-
-## Features
-
-- **Page builder** - Create _anything_ with no-code [**blocks**](https://hugoblox.com/blocks/) and [**elements**](https://docs.hugoblox.com/reference/markdown/)
-- **Edit any type of content** - Blog posts, publications, talks, slides, projects, and more!
-- **Create content** in [**Markdown**](https://docs.hugoblox.com/reference/markdown/), [**Jupyter**](https://docs.hugoblox.com/getting-started/cms/), or [**RStudio**](https://docs.hugoblox.com/getting-started/cms/)
-- **Plugin System** - Fully customizable [**color** and **font themes**](https://docs.hugoblox.com/getting-started/customize/)
-- **Display Code and Math** - Code syntax highlighting and LaTeX math supported
-- **Integrations** - [Google Analytics](https://analytics.google.com), [Disqus commenting](https://disqus.com), Maps, Contact Forms, and more!
-- **Beautiful Site** - Simple and refreshing one-page design
-- **Industry-Leading SEO** - Help get your website found on search engines and social media
-- **Media Galleries** - Display your images and videos with captions in a customizable gallery
-- **Mobile Friendly** - Look amazing on every screen with a mobile friendly version of your site
-- **Multi-language** - 35+ language packs including English, 中文, and Português
-- **Multi-user** - Each author gets their own profile page
-- **Privacy Pack** - Assists with GDPR
-- **Stand Out** - Bring your site to life with animation, parallax backgrounds, and scroll effects
-- **One-Click Deployment** - No servers. No databases. Only files.
-
-## Themes
-
-Hugo Blox and its templates come with **automatic day (light) and night (dark) mode** built-in. Visitors can choose their preferred mode by clicking the sun/moon icon in the header.
-
-[Choose a stunning **theme** and **font**](https://docs.hugoblox.com/getting-started/customize/) for your site. Themes are fully customizable.
-
-## License
-
-Copyright 2016-present [George Cushen](https://georgecushen.com).
-
-Released under the [MIT](https://github.com/HugoBlox/hugo-blox-builder/blob/main/LICENSE.md) license.

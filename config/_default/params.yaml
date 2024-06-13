@@ -5,8 +5,8 @@
 
 # Appearance
 appearance:
-  mode: light
-  color: Indigo 
+  mode: system
+  color: green
 
 # SEO
 marketing:
@@ -31,27 +31,30 @@ header:
   navbar:
     enable: true
     blox: "navbar"
-    align: "center"
+    align: "left"
     fixed_to_top: true
-    logo:
-      text: ""
+    logo: 
+      text: 
       # Logo filename in `assets/media/` folder
       filename: "logo.png"
     button:
       enable: true
-      text: "Get Started"
-      url: "https://hugoblox.com/templates/"
+      text: "Envíanos un mnensaje"
+      url: "mailto:inmobiliariaqoriinti@gmail.com"
+      #"https://wa.link/p9fp8b"
     show_search: true
     show_theme_chooser: true
+    highlight_active_link: true
+    show_translations: true
+    # If `show_translations` is enabled, do you wish to hide the current language name?
+    hide_language_name: false
 
 # Site footer
 footer:
+  block: minimal
   copyright:
     notice: '© {year} Grupo Inmobiliario & Constructor Qori Inti'
-  contact_info:
-    address: 'Dirección: Calle Principal #123, Ciudad, País'
-    phone: 'Teléfono: +123 456 7890'
-    email: 'Correo electrónico: info@qoriinti.com'
+  
 
 # Localization
 locale:

@@ -13,6 +13,7 @@ main:
     url: /#solutions
     weight: 30
   - name: Contacto
+    url: /contacto
     weight: 40
     hasChildren: true
   - parent: Publicaciones

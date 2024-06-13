@@ -14,11 +14,11 @@ sections:
       text: Somos una inmobiliaria en la ciudad de Juliaca y ofrecemos lotes a precios asequibles para toda la población.
       primary_action:
         text: Contactate con un asesor
-        url: https://hugoblox.com/templates/
+        url: https://wa.link/p9fp8b
         icon: rocket-launch
       secondary_action:
-        text: Lee nuestras reseñas
-        url: https://docs.hugoblox.com
+        text: 
+        url: #https://docs.hugoblox.com
       announcement:
         text: "Da el primer paso, nosotros te ayudamos a encontrar tu lote"
         link:
@@ -40,19 +40,25 @@ sections:
   - block: stats
     content:
       items:
-        - statistic: "100+"
+        - statistic: "4+"
           description: |
-            Lotes vendidos    
-            En toda la regióm
-        - statistic: "100+"
+            Ubicaciones estratpetigicas                 
+            en toda la ciudad de Juliaca 
+        - statistic: "100%"
           description: |
-            stats  
-            stats
-        - statistic: "100+"
+            Garantizada                   
+            tu inversión
+                       
+      #-  Carretera Caminaca - UNAJ  
+      #- Carretera Juliaca - Huancané
+      #- Carretera Pusi
+      #- Mercado San Hilarión
+        - statistic: "1"
           description: |
             stats   
             stats   
             stats
+        
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
@@ -63,23 +69,22 @@ sections:
     id: features
     content:
       title: "Qori Inti: Grupo Inmobiliario & Constructor"
-      text: Conoce mas sobre nosotros, nuestro compromiso con el cliente.
+      text: Conoce más sobre nosotros y nuestro compromiso con el cliente.
       items:
         - name: Nuestro servicio
           icon: magnifying-glass
-          description: Qori Inti aspira a expandir 
-                      su alcance más allá de la venta de lotes. Nuestro objetivo es desarrollar 
-                      proyectos inmobiliarios completos, desde la adquisición de terrenos 
-                      hasta la construcción de urbanizaciones, reflejando nuestra misión y 
-                      visión de innovación y excelencia.
+          description: |
+                  Qori Inti aspira a expandir su alcance más allá de la venta de lotes. 
+                  Nuestro objetivo es desarrollar proyectos inmobiliarios completos, desde la adquisición de terrenos hasta la construcción de urbanizaciones, reflejando nuestra misión y visión de innovación y excelencia.
                       
         - name: Misión
           icon: bolt
-          description: "'' En Qori Inti, nos dedicamos a transformar el mercado inmobiliario del sur 
+          description: |
+                      "En Qori Inti, nos dedicamos a transformar el mercado inmobiliario del sur 
                       del Perú. Nos esforzamos por la transparencia, la innovación y un 
                       compromiso incansable con mejorar la calidad de vida de nuestros clientes. 
                       Nuestra misión es ofrecer un servicio de calidad excepcional, asegurando 
-                      que cada interacción con nuestros clientes aporte valor y satisfacción.''"
+                      que cada interacción con nuestros clientes aporte valor y satisfacción".
         - name: Visión
           icon: sparkles
           description: "''Aspiramos a convertirnos en líderes del mercado inmobiliario del altiplano 
@@ -102,20 +107,21 @@ sections:
           # Upload image to `assets/media/` and reference the filename here
           image: build-website.png
           button:
-            text: Conocer Lotes
-            url: https://hugoblox.com/templates/
-        - title: Large Community
+            text: Conocer más
+            url: https://www.facebook.com/InmobiliariaQoriInti
+        - title: Una inversión segura
           text: Join our large community on Discord - ask questions and get live responses
           feature_icon: bolt
           features:
-            - "Dedicated support channel"
-            - "3,000+ users on Discord"
-            - "Share your site and get feedback"
+            - "Reserva tu cita GRATIS"
+            - "Asesoramiento personalizado"
+            - "Gran potencial de valorización"
+            - "Entrega inmediata y segura"
           # Upload image to `assets/media/` and reference the filename here
           image: coffee.jpg
           button:
-            text: Join Discord
-            url: https://discord.gg/z8wNYzb
+            text: ¡Más novedades!
+            url: "/blog/"
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
@@ -135,11 +141,12 @@ sections:
         padding: ["6rem", 0, 0, 0]
   - block: cta-card
     content:
-      title: Build your future-proof website
-      text: As easy as 1, 2, 3!
+      title: ¡Da el primer paso hoy mismo y haz realidad tus sueños!
+      text: Conoce sobre nuestros exclusivos lotes y comienza a construir el futuro que deseas, ¡A un solo clic de distancia!
+      #¡Da el primer paso hoy mismo y haz realidad tus sueños!
       button:
-        text: Get Started
-        url: https://hugoblox.com/templates/
+        text: Solicita más información
+        url: https://wa.link/p9fp8b
     design:
       card:
         # Card background color (CSS class)

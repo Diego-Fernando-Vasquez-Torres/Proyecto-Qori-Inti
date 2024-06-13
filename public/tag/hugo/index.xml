@@ -7,7 +7,7 @@
     <description>Hugo</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 25 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/logo_hu142b9b2ea3e7d5d9ab4fe1bdb9fc84ec_5256_300x300_fit_lanczos_3.png</url>
+      <url>http://localhost:1313/media/logo_hu05c62b4a3fbf0e3b991ec4c14874632b_425313_300x300_fit_lanczos_3.png</url>
       <title>Hugo</title>
       <link>http://localhost:1313/tag/hugo/</link>
     </image>
@@ -27,7 +27,7 @@
 
 
 
-&lt;div id=&#34;chart-821537469&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-769245381&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -45,7 +45,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-821537469&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-769245381&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
